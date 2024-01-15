@@ -11,10 +11,22 @@ p {
   color: #e5e5e5;
   font-size: 2.26rem;
   text-transform: uppercase;
-  height: 100vh;
+  height: 10vh;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.container1 {
+  color: #e5e5e5;
+  font-size: 2.26rem;
+  text-transform: uppercase;
+  height: 1vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10vh;
+  margin-top: 30vh;
+  margin-right: 25vh;
 }
 
 .animation {
@@ -38,7 +50,7 @@ p {
   background-color:#20a7d8;
 }
 .second div {
-  background-color:#CD921E;
+  background-color:green;
 }
 .third div {
   background-color:#c10528;
